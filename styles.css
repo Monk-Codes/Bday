@@ -1,0 +1,28 @@
+body {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ height: 100vh;
+ background: linear-gradient(45deg, #037cfd, #fe4507);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.message-container {
+ text-align: center;
+ background-color: rgba(253, 87, 4, 0.98);
+ padding: 10px;
+ border-radius: 20px;
+ box-shadow: 0 0 10px rgba(157, 149, 149, 0.2);
+}
+
+h1 {
+ font-size: 24px;
+ margin-bottom: 10px;
+}
+p {
+ text-align: center;
+ background: linear-gradient(to right, #f94914, #03f0fd);
+ margin: 0;
+}
